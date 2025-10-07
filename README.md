@@ -72,8 +72,8 @@
 <ul>
   <li> <a href="https://bikebook.vercel.app/"><b>Bike Book</b></a> <br>Developed a bike book web application using React, Redux, and Bootstrap, replicating Bikedekho with dynamic bike details and on-road price comparisons. Managed state with Redux for seamless user interactions and a responsive user interface.</li>
   <li> <a href="https://text-utils-five-silk.vercel.app/"><b>Text Utils</b></a> <br>Built a Textutils web application using React and Bootstrap, allowing users to convert text to Uppercase, Lowercase, and TitleCase, along with text copying features. Emphasized a responsive and user-friendly interface for seamless text manipulation.</li>
- 
-
+   <li> <a href="https://food-mall.vercel.app/"><b>Food Mall</b></a> <br>Developed a modern food ordering web application using React (Vite), featuring dynamic food categorization for seamless browsing and filtering. Implemented secure login and registration with robust user authentication and session management. Integrated a responsive cart and order tracking system with real-time price calculation and smooth UI interactions.
+   </li>
 </ul>
 
 ###
