@@ -72,8 +72,7 @@
 <ul>
   <li> <a href="https://bikebook.vercel.app/"><b>Bike Book</b></a> <br>Developed a bike book web application using React, Redux, and Bootstrap, replicating Bikedekho with dynamic bike details and on-road price comparisons. Managed state with Redux for seamless user interactions and a responsive user interface.</li>
   <li> <a href="https://text-utils-five-silk.vercel.app/"><b>Text Utils</b></a> <br>Built a Textutils web application using React and Bootstrap, allowing users to convert text to Uppercase, Lowercase, and TitleCase, along with text copying features. Emphasized a responsive and user-friendly interface for seamless text manipulation.</li>
-  <li> <a href="https://github.com/PratikKapadi/E-Prescription"><b>E-Prescription</b></a> <br>Developed a comprehensive e-prescription system integrating secure login, medication
-search, and electronic prescription generation using HTML, CSS, JavaScript, Node.js,and MySQL.</li>
+ 
 
 </ul>
 
