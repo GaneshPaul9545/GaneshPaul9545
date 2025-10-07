@@ -74,6 +74,13 @@
   <li> <a href="https://text-utils-five-silk.vercel.app/"><b>Text Utils</b></a> <br>Built a Textutils web application using React and Bootstrap, allowing users to convert text to Uppercase, Lowercase, and TitleCase, along with text copying features. Emphasized a responsive and user-friendly interface for seamless text manipulation.</li>
    <li> <a href="https://food-mall.vercel.app/"><b>Food Mall</b></a> <br>Developed a modern food ordering web application using React (Vite), featuring dynamic food categorization for seamless browsing and filtering. Implemented secure login and registration with robust user authentication and session management. Integrated a responsive cart and order tracking system with real-time price calculation and smooth UI interactions.
    </li>
+
+ <li> 
+  <a href="https://emplyee-management-system.vercel.app/"><b>Employee Management System</b></a> <br>
+  Built a modern employee management web application using React (Vite), enabling dynamic employee listing, filtering, and role-based management. Implemented secure login and registration with strong user authentication and session handling. Integrated a responsive UI for adding, editing, and deleting employee records with real-time updates and intuitive user experience.
+</li>
+
+   
 </ul>
 
 ###
