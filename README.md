@@ -10,7 +10,7 @@
   ```javascript 
   const Ganesh Paul = {
   passion: "Full-Stack Development",
-  learning: "MERN (MongoDB, Express.js, React.js, Node.js)",
+  learning: ,
   collaboration: "Web Development Projects",
   interests: ["Coding", "Traveling","Tracking"],
   funFact: "I once solved a coding bug while dreaming!"
